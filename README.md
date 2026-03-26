@@ -14,7 +14,7 @@ A 2D space shooter game built with Python and Pygame. This project is a customiz
 
 ## Installation & Running
 1. Clone the repository:
-   `git clone https://github.com/bayazit/alien_invasion_custom.git`
+   `git clone https://github.com/jeffbayazit/alien_invasion_custom.git`
 2. Create and activate a virtual environment:
    `python3 -m venv venv`
    `source venv/bin/activate`
