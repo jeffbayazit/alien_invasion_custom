@@ -25,6 +25,8 @@ class Settings:
         
         # Scoring settings
         self.alien_points = 50
+        
+        self.sound_volume = 0.5
 
     def initialize_dynamic_settings(self):
         """Initialize settings that change throughout the game."""
